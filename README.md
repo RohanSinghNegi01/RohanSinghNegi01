@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanSinghNegi01
-- 👀 I’m interested in getting some experience around web development and data science
-- 🌱 I’m currently learning java
+- 👀 I’m interested in getting some experience around data science
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on hackathon
 - 📫 How to reach me sm
 
